@@ -4,6 +4,8 @@ Este projeto é uma ferramenta para ajudar na pesquisa de palavras-chave SEO, qu
 
 veja em produção: https://sea-search.vercel.app/
 
+API: https://rapidapi.com/ajithjojo1230/api/seo-keyword-research/
+
 ### ferramentas utilizadas 
           
 <p>
