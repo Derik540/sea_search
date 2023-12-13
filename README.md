@@ -1,9 +1,12 @@
-# React + Vite
+## Seosea
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma ferramenta para ajudar na pesquisa de palavras-chave SEO, que são fundamentais para melhorar o conteúdo de sites e blogs. Com uma análise de mercado, concorrência e público-alvo, o projeto fornece sugestões de termos importantes.
+Este projeto é uma solução para facilitar a pesquisa por palavras-chave SEO. Você pode clonar este repositório e rodá-lo localmente. com o tempo será será adicionado novas funcionalidades que serão informadas em meus perfils.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# sea_search
+### ferramentas utilizadas 
+          
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite" />
+  </a>
+</p>
